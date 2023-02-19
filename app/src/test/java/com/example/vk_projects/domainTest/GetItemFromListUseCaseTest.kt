@@ -1,9 +1,8 @@
 package com.example.vk_projects.domainTest
 
 import com.example.vk_projects.data.ProjectRepositoryImpl
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 import com.example.vk_projects.domain.GetItemFromListUseCase
-import com.example.vk_projects.domain.GetRemoteDataUseCase
 import com.example.vk_projects.domain.ProjectRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking

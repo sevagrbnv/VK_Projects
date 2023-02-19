@@ -7,7 +7,7 @@ import androidx.databinding.ViewDataBinding
 import androidx.recyclerview.widget.ListAdapter
 import com.bumptech.glide.Glide
 import com.example.vk_projects.R
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 import com.example.vk_projects.databinding.ListItemBinding
 
 class DataAdapter: ListAdapter<Item, DataViewHolder>(

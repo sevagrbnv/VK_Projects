@@ -1,7 +1,7 @@
 package com.example.vk_projects.domain
 
 import com.example.vk_projects.data.ProjectRepositoryImpl
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 
 class GetRemoteDataUseCase {
 

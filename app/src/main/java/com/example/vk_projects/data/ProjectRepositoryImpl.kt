@@ -1,13 +1,10 @@
 package com.example.vk_projects.data
 
-import android.util.Log
 import com.example.vk_projects.data.remoteDataSousce.ApiService
-import com.example.vk_projects.data.remoteDataSousce.Item
-import com.example.vk_projects.data.remoteDataSousce.ListData
+import com.example.vk_projects.model.Item
 import com.example.vk_projects.domain.ProjectRepository
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
-import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

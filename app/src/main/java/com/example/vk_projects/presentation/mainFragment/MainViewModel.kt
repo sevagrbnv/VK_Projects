@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 import com.example.vk_projects.domain.GetRemoteDataUseCase
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

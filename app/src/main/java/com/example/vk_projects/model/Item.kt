@@ -1,4 +1,4 @@
-package com.example.vk_projects.data.remoteDataSousce
+package com.example.vk_projects.model
 
 data class Item(
     val description: String,

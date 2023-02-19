@@ -1,5 +1,6 @@
 package com.example.vk_projects.data.remoteDataSousce
 
+import com.example.vk_projects.model.ListData
 import retrofit2.Response
 import retrofit2.http.GET
 

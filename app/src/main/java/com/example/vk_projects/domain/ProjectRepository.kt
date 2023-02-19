@@ -1,6 +1,6 @@
 package com.example.vk_projects.domain
 
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 
 interface ProjectRepository {
 

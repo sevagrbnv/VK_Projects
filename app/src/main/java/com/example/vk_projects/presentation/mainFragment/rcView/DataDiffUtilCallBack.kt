@@ -1,7 +1,7 @@
 package com.example.vk_projects.presentation.mainFragment.rcView
 
 import androidx.recyclerview.widget.DiffUtil
-import com.example.vk_projects.data.remoteDataSousce.Item
+import com.example.vk_projects.model.Item
 
 class DataDiffCallback: DiffUtil.ItemCallback<Item>() {
 
